@@ -3,7 +3,7 @@ This is preview Check Water application project.
 
 If you want to watch an application design, contact me.
 
-The reason I made this, check water has private url.
+The reason I made this, check water has a private url.
 
 # Link
 
