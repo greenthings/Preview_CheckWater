@@ -15,6 +15,13 @@ https://apps.apple.com/kr/app/%ED%99%95%EC%9D%B8%ED%95%98%EA%B3%A0-%EB%A7%88%EC%
 https://user-images.githubusercontent.com/69499549/172583376-3cc168a2-077d-4e60-bb78-27d0bd949e28.mp4
 
 
+
+# Memory Leaks Test
+
+<img width="479" alt="image" src="https://user-images.githubusercontent.com/69499549/180960926-2b35dfc1-25f7-402a-9d74-40f31f12922f.png">
+
+
+
 # Privacy Policy
 
 <details><summary>KOREAN</summary>
