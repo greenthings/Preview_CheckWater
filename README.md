@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/69499549/172583376-3cc168a2-077d-4e60-
 
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/69499549/180960926-2b35dfc1-25f7-402a-9d74-40f31f12922f.png">
 
-# UI Test
+# UI Launch Tests
 
 ```
 2022-07-30 00:09:10.648416+0900 CheckWaterUITests-Runner[21225:4838685] Running tests...
