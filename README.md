@@ -20,7 +20,85 @@ https://user-images.githubusercontent.com/69499549/172583376-3cc168a2-077d-4e60-
 
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/69499549/180960926-2b35dfc1-25f7-402a-9d74-40f31f12922f.png">
 
+# UI Test
 
+```
+2022-07-30 00:09:10.648416+0900 CheckWaterUITests-Runner[21225:4838685] Running tests...
+Test Suite 'Selected tests' started at 2022-07-30 00:09:20.722
+Test Suite 'CheckWaterUITests.xctest' started at 2022-07-30 00:09:20.722
+Test Suite 'CheckWaterUITestsLaunchTests' started at 2022-07-30 00:09:20.722
+Test Case '-[CheckWaterUITests.CheckWaterUITestsLaunchTests testLaunch]' started.
+    t =     0.00s Setting device orientation to Portrait
+    t =     0.09s     Wait for com.apple.springboard to idle
+    t =     0.16s Setting appearance mode to Light
+    t =     0.22s     Wait for com.apple.springboard to idle
+    t =     1.39s Start Test at 2022-07-30 00:09:22.112
+    t =     1.47s Set Up
+    t =     1.47s Open bouncing.CheckWater
+    t =     1.54s     Launch bouncing.CheckWater
+    t =     1.54s         Terminate bouncing.CheckWater:20240
+    t =     6.31s         Setting up automation session
+    t =     6.77s         Wait for bouncing.CheckWater to idle
+    t =     8.13s Find the Target Application 'bouncing.CheckWater'
+    t =     8.73s Added attachment named 'Launch Screen'
+    t =     8.74s Tear Down
+Test Case '-[CheckWaterUITests.CheckWaterUITestsLaunchTests testLaunch]' passed (8.941 seconds).
+Test Case '-[CheckWaterUITests.CheckWaterUITestsLaunchTests testLaunch]' started.
+    t =     0.00s Setting device orientation to Landscape Right
+    t =     0.08s     Wait for bouncing.CheckWater to idle
+    t =     0.44s Setting appearance mode to Light
+    t =     2.53s     Wait for bouncing.CheckWater to idle
+    t =     2.61s Start Test at 2022-07-30 00:09:32.275
+    t =     2.67s Set Up
+    t =     2.67s Open bouncing.CheckWater
+    t =     2.73s     Launch bouncing.CheckWater
+    t =     2.73s         Terminate bouncing.CheckWater:21238
+    t =     4.91s         Setting up automation session
+    t =     5.50s         Wait for bouncing.CheckWater to idle
+    t =     6.77s Find the Target Application 'bouncing.CheckWater'
+    t =     7.50s Added attachment named 'Launch Screen'
+    t =     7.50s Tear Down
+Test Case '-[CheckWaterUITests.CheckWaterUITestsLaunchTests testLaunch]' passed (7.704 seconds).
+Test Case '-[CheckWaterUITests.CheckWaterUITestsLaunchTests testLaunch]' started.
+    t =     0.00s Setting device orientation to Portrait
+    t =     0.08s     Wait for bouncing.CheckWater to idle
+    t =     0.44s Setting appearance mode to Dark
+    t =     0.55s     Wait for bouncing.CheckWater to idle
+    t =     1.07s Start Test at 2022-07-30 00:09:38.444
+    t =     1.15s Set Up
+    t =     1.15s Open bouncing.CheckWater
+    t =     1.22s     Launch bouncing.CheckWater
+    t =     1.22s         Terminate bouncing.CheckWater:21244
+    t =     3.57s         Setting up automation session
+    t =     4.04s         Wait for bouncing.CheckWater to idle
+    t =     5.34s Find the Target Application 'bouncing.CheckWater'
+    t =     6.03s Added attachment named 'Launch Screen'
+    t =     6.03s Tear Down
+Test Case '-[CheckWaterUITests.CheckWaterUITestsLaunchTests testLaunch]' passed (6.233 seconds).
+Test Case '-[CheckWaterUITests.CheckWaterUITestsLaunchTests testLaunch]' started.
+    t =     0.00s Setting device orientation to Landscape Right
+    t =     0.09s     Wait for bouncing.CheckWater to idle
+    t =     0.42s Setting appearance mode to Dark
+    t =     2.51s     Wait for bouncing.CheckWater to idle
+    t =     2.59s Start Test at 2022-07-30 00:09:46.193
+    t =     2.65s Set Up
+    t =     2.65s Open bouncing.CheckWater
+    t =     2.71s     Launch bouncing.CheckWater
+    t =     2.71s         Terminate bouncing.CheckWater:21249
+    t =     5.03s         Setting up automation session
+    t =     5.47s         Wait for bouncing.CheckWater to idle
+    t =     6.74s Find the Target Application 'bouncing.CheckWater'
+    t =     7.44s Added attachment named 'Launch Screen'
+    t =     7.44s Tear Down
+Test Case '-[CheckWaterUITests.CheckWaterUITestsLaunchTests testLaunch]' passed (7.643 seconds).
+Test Suite 'CheckWaterUITestsLaunchTests' passed at 2022-07-30 00:09:51.247.
+	 Executed 4 tests, with 0 failures (0 unexpected) in 30.520 (30.524) seconds
+Test Suite 'CheckWaterUITests.xctest' passed at 2022-07-30 00:09:51.248.
+	 Executed 4 tests, with 0 failures (0 unexpected) in 30.520 (30.526) seconds
+Test Suite 'Selected tests' passed at 2022-07-30 00:09:51.249.
+	 Executed 4 tests, with 0 failures (0 unexpected) in 30.520 (30.527) seconds
+
+```
 
 # Privacy Policy
 
